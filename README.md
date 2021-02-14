@@ -1,1 +1,1 @@
-# sample_for_epam
+# mavenProjectForSimpleCalculator
